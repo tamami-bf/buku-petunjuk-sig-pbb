@@ -1,0 +1,71 @@
+\select@language {english}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Jendela awal Mapinfo 8}}{5}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Posisi Icon Yang Telah Dirapihkan}}{6}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Jendela Membuat File Baru}}{6}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Jendela pembentukan field tabel}}{7}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Jendela Layer Control}}{11}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Layer Dapat Diedit}}{12}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Ikon Untuk Membuat Objek}}{12}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Bentuk Bidang Sebelum dilakukan Reshape}}{13}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Bentuk Bidang Setelah dilakukan Reshape}}{13}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Contoh Bentuk Bidang-Bidang Yang Akan Digabungkan}}{14}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Contoh Bidang-Bidang Berhimpit yang Akan Digabung}}{14}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Jendela Agregasi Data}}{15}
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Hasil Penggabungan Kedua Objek}}{16}
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Objek yang akan dipisah / split}}{16}
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Objek Yang Dipilih untuk Dipisah/Split}}{17}
+\contentsline {figure}{\numberline {2.16}{\ignorespaces Objek Telah Dijadikan Target Split/Pemisahan}}{17}
+\contentsline {figure}{\numberline {2.17}{\ignorespaces Objek Poligon Pembantu Untuk Memisahkan/Split Objek Target}}{18}
+\contentsline {figure}{\numberline {2.18}{\ignorespaces Objek Poligon Pembantu Terpilih}}{18}
+\contentsline {figure}{\numberline {2.19}{\ignorespaces Jendela Aggregation Untuk Pemisahan/Split Objek}}{19}
+\contentsline {figure}{\numberline {2.20}{\ignorespaces Hasil Akhir Operasi Pemisahan/Split}}{20}
+\contentsline {figure}{\numberline {2.21}{\ignorespaces Objek Yang Akan Dilakukan Pemotongan}}{20}
+\contentsline {figure}{\numberline {2.22}{\ignorespaces Objek Terpilih Untuk Dilakukan Operasi Penghapusan}}{21}
+\contentsline {figure}{\numberline {2.23}{\ignorespaces Objek Terpilih Sudah Menjadi Target Pemotongan}}{21}
+\contentsline {figure}{\numberline {2.24}{\ignorespaces Objek Pembantu Untuk Melakukan Pemotongan}}{22}
+\contentsline {figure}{\numberline {2.25}{\ignorespaces Objek Pembantu Terpilih}}{22}
+\contentsline {figure}{\numberline {2.26}{\ignorespaces Jendela Aggregation Untuk Objek Yang Tersisa}}{23}
+\contentsline {figure}{\numberline {2.27}{\ignorespaces Objek Telah Terpotong}}{24}
+\contentsline {figure}{\numberline {2.28}{\ignorespaces Hasil Akhir Pemotongan}}{24}
+\contentsline {figure}{\numberline {2.29}{\ignorespaces Layer Objek Yang Akan Dipotong}}{25}
+\contentsline {figure}{\numberline {2.30}{\ignorespaces Objek Yang Terpilih Untuk Dilakukan Pemotongan}}{26}
+\contentsline {figure}{\numberline {2.31}{\ignorespaces Objek Tertarget Untuk Dilakukan Pemotongan}}{27}
+\contentsline {figure}{\numberline {2.32}{\ignorespaces Objek Poligon Bantuan Untuk Melakukan Pemotongan}}{27}
+\contentsline {figure}{\numberline {2.33}{\ignorespaces Objek Poligon Bantuan Terpilih}}{28}
+\contentsline {figure}{\numberline {2.34}{\ignorespaces Jendela Aggregate Untuk Pemotongan}}{29}
+\contentsline {figure}{\numberline {2.35}{\ignorespaces Objek Yang Masih Tersisa Dari Hasil Pemotongan}}{30}
+\contentsline {figure}{\numberline {2.36}{\ignorespaces Hasil Akhir Pemotongan}}{30}
+\contentsline {figure}{\numberline {2.37}{\ignorespaces Contoh Dua Objek Yang Akan Disambungkan}}{31}
+\contentsline {figure}{\numberline {2.38}{\ignorespaces Objek Yang Terpilih Untuk Dilakukan Reshape Penyambungan}}{32}
+\contentsline {figure}{\numberline {2.39}{\ignorespaces Tanda Tombol Snap Aktif}}{32}
+\contentsline {figure}{\numberline {2.40}{\ignorespaces Hasil Reshape Objek}}{33}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Jendela Map Options}}{35}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Jendela Projection}}{36}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Pemilihan UTM WGS 84 Zona 49 S}}{37}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Jendela Untuk Membuka File Raster}}{39}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Jendela Pernyataan Register}}{40}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Jendela Image Registration}}{41}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Jendela Layer Control}}{43}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Layer Dapat Diedit}}{44}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Jendela Setting Simbol}}{45}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Contoh Penggambaran Objek Titik}}{46}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Jendela Konfigurasi Objek Garis}}{47}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Ikon Untuk Menggambar Garis}}{47}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Contoh Hasil Objek Garis}}{48}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Jendela Setting Poligon}}{49}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Contoh Hasil Akhir Penggambaran Objek Area}}{50}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Jendela Browse Table}}{51}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Isi Tabel Layer Bidang Objek Pajak}}{52}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Jendela Update Kolom}}{53}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Jendela Expression Untuk Mengisi d\_luas}}{53}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Hasil Perhitungan Luas Bidang}}{55}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Jendela Select}}{56}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Jendela Expression}}{57}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Tabel Hasil Select}}{58}
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Blok Terpilih Ditandai Dengan Bidang Terarsir}}{59}

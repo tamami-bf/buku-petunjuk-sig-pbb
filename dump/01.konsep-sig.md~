@@ -1,0 +1,107 @@
+# KONSEP SISTEM INFORMASI GEOGRAFIS (SIG)
+
+__A. Definisi__
+
+Sistem Informasi Geografis merupakan gabungan dari tiga unsur pokok yaitu: __sistem__, __informasi__, dan __geografis__. Istilah __sistem__ sangat populer digunakan untuk mendeskripsikan banyak hal, khususnya untuk aktifitas-aktifitas yang diperlukan dalam pemrosesan data.
+
+__Sistem__ dapat didefinisikan sebagai sekumpulan objek, ide yang disertai dengan keterhubungannya dalam mencapai tujuan atau sasaran bersama. Atau sistem dapat juga dikatakan sebagai keterkaitan dan keterpaduan kerja antar komponen dengan berbagai fungsi untuk mendapatkan suatu hasil.
+
+__Informasi__ adalah data yang berformat dan terorganisasi dengan baik agar mudah dikelola untuk dianalisis atau diproses.
+
+__Sistem Informasi__ adalah suatu jaringan kegiatan mulai dari pengumpulan data, manipulasi, pengelolaan dan analisis serta menjabarkannya menjadi informasi.
+
+Dari pengertian di atas dapat disimpulkan berbagai definisi Sistem Informasi Geografis diantaranya yaitu :
+
+* __Sistem Informasi Geografis__ adalah sistem informasi yang direkayasa untuk bekerja dengan data yang berreferensi keruangan (geografis)
+
+* __Sistem Informasi Geografis__ adalah satuan tata cara yang digunakan untuk menyimpan, memanipulasi dan menganalisis data dengan berreferensi geografis baik manual maupun digital.
+
+* __Sistem Informasi Geografis__ adalah sistem yang berisi data berreferensi geografis yang dapat dianalisis dan dikonversi menjadi informasi untuk suatu tujuan tertentu atau pemanfaatan tertentu. Hal utama pada SIG adalah analisis data untuk mendapatkan informasi baru.
+
+* __Sistem Informasi Geografis__ adalah suatu sistem komputer yang digunakan untuk memasukkan, menyimpan, memeriksa, mengintegrasikan, memanipulasi, menganalisis, dan menampilkan data yang berhubungan dengan posisi-posisi di permukaan bumi.
+
+* __Sistem Informasi Geografis__ adalah sistem yang berbasis komputer yang digunakan untuk menyimpan dan memanipulasi informasi-informasi geografis. SIG dirancang untuk mengumpulkan, menyimpan, dan menganalisis objek-objek dan fenomena dimana lokasi geografis merupakan karaketeristik yang penting atau kritis untuk dianalisis. Dengan demikian, SIG merupakan sistem komputer yang memiliki empat kemampuan berikut dalam menangani data yang berreferensi geografis: (a) masukan/infput, (b) manajemen data (penyimpanan dan pemanggilan data), (c) analisis dan manipulasi data, (d) keluaran / output.
+
+B. Komponen SIG
+
+SIG merupakan suatu sistem yang kompleks yang biasanya terintegrasi dengan sistem komputer. Komponen SIG terdiri dari :
+
+* Perangkat Keras (_Hardware_)
+
+Perkembangan dunia komputer saat ini begitu pesat dengan spesifikasi yang tinggi seperti kemampuan prosesor yang semakin cepat, kapasitas _harddisk_ dan memori (RAM) yang semakin besar, sudah sangat memenuhi persyaratan pengolahan data yang dibutuhkan bagi suatu pekerjaan SIG.
+
+Perangkat keras yang lazim digunakan berupa, PC, _mouse_, _digitizer_, _printer_, _scanner_, dan _plotter_.
+
+* Perangkat Lunas (_Software_)
+
+Untuk melakukan suatu pekerjaan SIG berbasis komputer sangat dibutuhkan perangkat lunak pengolahnya. Sekarang tersedia berbagai perangkat lunak yang beredar di pasar dan mudah didapat. Diantaranya yang lazim digunakan adalah : AutoCAD, MapInfo, R2V, ArcGIS, ArcView, dll. Namun yang akan kita gunakan saat ini adalah MapInfo, karena _software_ inilah yang digunakan Direktorat Jenderal Pajak untuk mengelola data spasial Pajak Bumi dan Bangunan Perdesaan dan Perkotaan sehingga dalam implementasinya tidak menimbulkan permasalahan baru mengenai konversi data, atau perbedaan perangkat simpanan data yang digunakan.
+
+* Data dan Informasi Geografi
+
+Data dan informasi geografi dapat diperoleh dengan mendijitasi data spasialnya secara langsung dari peta dan memasukkan data atribut pada data spasial itu. SIG juga memberikan kemudahan untuk mengumpulkan dan menyimpan suatu data dan informasi geografis yang telah dibuat dari perangkat lunak lainnya dengan cara meng_import_ kedalam perangkat lunak yang dipakai.
+
+* Manajemen
+
+Suatu pekerjaan SIG akan berhasil dengan baik jika dikerjakan dengan manajemen yang baik.
+
+C. Data dan Informasi
+
+Pembahasan mengenai sistem informasi diawali dengan pendefinisian secara fungsional tentang data dan informasi. Istilah data dan informasi sering digunakan secara bergantian dan saling tertukar namun melalui kesepakatan umum dapat diartikan sebagai simbol-simbol pengganti yang menggambarkan peristiwa, aktifitas, konsep, dan objek-objek penting.
+
+Macam data pada pekerjaan SIG yaitu :
+
+  __1. Data Grafis__
+
+    * Berwujud Titik (non dimensional)
+
+    Contoh : objek ibukota (kecamatan, kabupaten, dst), gunung, bukit, letak suatu objek (rumah sakit, pos polisi, restoran, dsb).
+
+    * Berwujud Garis / line (satu dimensi)
+
+    Contoh : Objek jalan, rel kereta api, sungai kecil, kontur, dsb.
+
+    * Berwujud Area / polygon (dua dimensi)
+
+    Contoh: Batas administrasi penggunaan lahan, blok permukiman, sungai besar, dsb.
+
+  __2. Data Atribut__
+
+  Data atribut adalah data atau informasi yang menjelaskan perihal tentang data grafis.
+  
+  Contoh : nama ibukota, nama dan tinggi gunung, nama jalan, nama sungai, nama kecamatan, jenis penggunaan lahan.
+
+D. Aplikasi SIG
+
+Penerapan SIG dapat digunakan pada banyak bidang, misalnya :
+
+  (a) Sumber Daya Alam
+
+    Inventarisasi SDA, Pengelolaan SDA, Kesesuaian Lahan untuk pertanian, perkebunan, kehutanan.
+
+  (b) Perencanaan
+
+    Perencanaan Tata Ruang Wilayah/Kota. Perencanaan Lokasi Permukiman, Relokasi Permukiman dan Industri
+
+  (c) Lingkungan
+
+    Manajemen Rawan Bencana, Pemetaan Pencemaran (Sungai, Danau, Laut)
+
+  (d) Utility
+
+    Manajemen Informasi Jaringan Pipa Air Minum, Fasilitas Umum lainnya.
+
+  (e) Ekonomi, Bisnis, dan Marketing
+  
+    Penentuan Lokasi Pasar Swalayan, Bank, Kantor Cabang.
+
+  (f) Telekomunikasi
+
+    Sistem Informasi Pelanggan, Jaringan Telekomunikasi, Fasilitas Umum Telekomunikasi.
+
+  (g) Kelautan
+
+    Pemetaan SDA Laut, Manajemen SDA Laut, Daerah Penangkapan Ikan, Kesesuaian Lahan Tambak.
+
+  (h) Transportasi
+
+    Jaringan Transportasi, Penentuan Rute ALternatif Transportasi

@@ -1,0 +1,1184 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.14)  12 JAN 2016 08:05
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**00.book.tex
+(./00.book.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count91
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+(/usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks16
+\footnotemargin=\dimen113
+\c@pp@next@reset=\count92
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2013/12/03 3.9h The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2013/12/03 3.9h Babel common definitions
+\babel@savecnt=\count93
+\U@D=\dimen114
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/paralist/paralist.sty
+Package: paralist 2013/06/09 v2.4 Extended list environments
+\pltopsep=\skip43
+\plpartopsep=\skip44
+\plitemsep=\skip45
+\plparsep=\skip46
+\pl@lab=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count94
+\float@exts=\toks19
+\float@box=\box26
+\@float@everytoks=\toks20
+\@floatcapt=\box27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/was/gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count95
+\lst@gtempboxa=\box28
+\lst@token=\toks21
+\lst@length=\count96
+\lst@currlwidth=\dimen115
+\lst@column=\count97
+\lst@pos=\count98
+\lst@lostspace=\dimen116
+\lst@width=\dimen117
+\lst@newlines=\count99
+\lst@lineno=\count100
+\lst@maxwidth=\dimen118
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2013/08/26 1.5b (Carsten Heinz)
+\c@lstnumber=\count101
+\lst@skipnumbers=\count102
+\lst@framebox=\box29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2013/08/26 1.5b listings configuration
+))
+Package: listings 2013/08/26 1.5b (Carsten Heinz)
+\@indexfile=\write3
+\openout3 = `00.book.idx'.
+
+
+Writing index file 00.book.idx
+(./00.book.aux)
+\openout1 = `00.book.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(112.74234pt, 657.65411pt, 169.11354pt)
+* \paperwidth=614.295pt
+* \paperheight=939.51pt
+* \textwidth=430.00462pt
+* \textheight=657.65411pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=8.59856pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=47.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count103
+\scratchdimen=\dimen119
+\scratchbox=\box30
+\nofMPsegments=\count104
+\nofMParguments=\count105
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count106
+\MPscratchDim=\dimen120
+\MPnumerator=\count107
+\makeMPintoPDFobject=\count108
+\everyMPtoPDFconversion=\toks23
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Info: Redefining \celsius on input line 42.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 42.
+
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 42.
+Package gensymb Info: Using \Omega for \ohm on input line 42.
+
+Package gensymb Warning: Not defining \micro.
+
+\c@lstlisting=\count109
+(./01.title.tex <./resources/logo.jpg, id=1, 321.2pt x 311.1625pt>
+File: ./resources/logo.jpg Graphic file (type jpg)
+
+<use ./resources/logo.jpg>
+Package pdftex.def Info: ./resources/logo.jpg used on input line 10.
+(pdftex.def)             Requested size: 215.0023pt x 208.28787pt.
+ [1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./resources/logo.jpg>])
+\openout2 = `02.pengesahan.aux'.
+
+ (./02.pengesahan.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 4.
+
+Underfull \hbox (badness 1377) in paragraph at lines 6--7
+[]\OT1/cmr/m/n/12 BUKU PETUN-JUK OP-ERA-SIONAL SIS-TEM IN-
+ []
+
+
+Overfull \hbox (44.75183pt too wide) in paragraph at lines 9--19
+ [][] 
+ []
+
+) [1
+
+
+] (./00.book.toc)
+\tf@toc=\write4
+\openout4 = `00.book.toc'.
+
+ [2
+
+
+]
+No file 00.book.lof.
+\tf@lof=\write5
+\openout5 = `00.book.lof'.
+
+[3
+
+]
+\openout2 = `03.konsep-sig.aux'.
+
+ (./03.konsep-sig.tex
+BAB 1.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 18.
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 18.
+
+Overfull \hbox (7.75885pt too wide) in paragraph at lines 26--33
+\OT1/cmr/m/n/12 di-gu-nakan un-tuk meny-im-pan dan me-ma-nip-u-lasi informasi-i
+nformasi ge-ografis.
+ []
+
+[1
+
+
+
+]
+Overfull \hbox (15.52682pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/12 meny-im-pan su-atu data dan in-for-masi ge-ografis yang telah d
+ibuat dari perangkat
+ []
+
+[2]
+Overfull \hbox (5.81866pt too wide) in paragraph at lines 123--124
+[]\OT1/cmr/m/n/12 Sistem In-for-masi Pelang-gan, Jaringan Teleko-mu-nikasi, Fas
+il-i-tas Umum Teleko-
+ []
+
+[3]) [4]
+\openout2 = `04.pengenalan-software.aux'.
+
+ (./04.pengenalan-software.tex
+BAB 2.
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 9.
+(/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 9.
+
+<./resources/000-start-mapinfo8.png, id=34, 1145.99571pt x 623.75893pt>
+File: ./resources/000-start-mapinfo8.png Graphic file (type png)
+
+<use ./resources/000-start-mapinfo8.png>
+Package pdftex.def Info: ./resources/000-start-mapinfo8.png used on input line 
+13.
+(pdftex.def)             Requested size: 430.00462pt x 234.05179pt.
+
+<./resources/001-rapih-icon.png, id=35, 1145.99571pt x 623.75893pt>
+File: ./resources/001-rapih-icon.png Graphic file (type png)
+
+<use ./resources/001-rapih-icon.png>
+Package pdftex.def Info: ./resources/001-rapih-icon.png used on input line 23.
+(pdftex.def)             Requested size: 430.00462pt x 234.05179pt.
+ [5
+
+
+
+ <./resources/000-start-mapinfo8.png>]
+<./resources/002-new-mapper.png, id=40, 1145.99571pt x 623.75893pt>
+File: ./resources/002-new-mapper.png Graphic file (type png)
+
+<use ./resources/002-new-mapper.png>
+Package pdftex.def Info: ./resources/002-new-mapper.png used on input line 37.
+(pdftex.def)             Requested size: 430.00462pt x 234.05179pt.
+
+<./resources/003-pembentukan-tabel.png, id=41, 1145.99571pt x 623.75893pt>
+File: ./resources/003-pembentukan-tabel.png Graphic file (type png)
+
+<use ./resources/003-pembentukan-tabel.png>
+Package pdftex.def Info: ./resources/003-pembentukan-tabel.png used on input li
+ne 45.
+(pdftex.def)             Requested size: 430.00462pt x 234.05179pt.
+ [6 <./resources/001-rapih-icon.png> <./resources/002-new-mapper.png>]
+Underfull \hbox (badness 1867) in paragraph at lines 69--70
+\OT1/cmr/m/n/12 meng-gu-nakan up-date col-
+ []
+
+[7 <./resources/003-pembentukan-tabel.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+[]\OT1/cmr/m/n/12 Lebar sun-gai (rata-rata
+ []
+
+[8]
+Underfull \hbox (badness 4254) in paragraph at lines 161--162
+[]\OT1/cmr/m/n/12 Kode wilayah + Nomor
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 257--258
+[]\OT1/cmr/m/n/12 Kode wilayah Daerah
+ []
+
+<./resources/004-ikon-layer-kontrol.png, id=55, 24.09pt x 22.0825pt>
+File: ./resources/004-ikon-layer-kontrol.png Graphic file (type png)
+
+<use ./resources/004-ikon-layer-kontrol.png>
+Package pdftex.def Info: ./resources/004-ikon-layer-kontrol.png used on input l
+ine 272.
+(pdftex.def)             Requested size: 24.08992pt x 22.08243pt.
+
+<./resources/005-jendela-layer-control.png, id=56, 443.6575pt x 330.23375pt>
+File: ./resources/005-jendela-layer-control.png Graphic file (type png)
+
+<use ./resources/005-jendela-layer-control.png>
+Package pdftex.def Info: ./resources/005-jendela-layer-control.png used on inpu
+t line 276.
+(pdftex.def)             Requested size: 430.00462pt x 320.06935pt.
+ [10 <./resources/004-ikon-layer-kontrol.png (PNG copy)>]
+<./resources/006-mode-edited.png, id=60, 443.6575pt x 330.23375pt>
+File: ./resources/006-mode-edited.png Graphic file (type png)
+
+<use ./resources/006-mode-edited.png>
+Package pdftex.def Info: ./resources/006-mode-edited.png used on input line 284
+.
+(pdftex.def)             Requested size: 430.00462pt x 320.06935pt.
+ [11 <./resources/005-jendela-layer-control.png (PNG copy)>]
+<./resources/007-ikon-drawing.png, id=65, 408.52625pt x 29.10875pt>
+File: ./resources/007-ikon-drawing.png Graphic file (type png)
+
+<use ./resources/007-ikon-drawing.png>
+Package pdftex.def Info: ./resources/007-ikon-drawing.png used on input line 29
+2.
+(pdftex.def)             Requested size: 430.00462pt x 30.64102pt.
+
+
+LaTeX Warning: Reference `fig:layeredited' on page 12 undefined on input line 3
+02.
+
+<./resources/008-ikon-select.png, id=66, 19.78821pt x 18.92786pt>
+File: ./resources/008-ikon-select.png Graphic file (type png)
+
+<use ./resources/008-ikon-select.png>
+Package pdftex.def Info: ./resources/008-ikon-select.png used on input line 304
+.
+(pdftex.def)             Requested size: 19.78813pt x 18.9278pt.
+
+<./resources/009-ikon-reshape.png, id=67, 19.78821pt x 18.92786pt>
+File: ./resources/009-ikon-reshape.png Graphic file (type png)
+
+<use ./resources/009-ikon-reshape.png>
+Package pdftex.def Info: ./resources/009-ikon-reshape.png used on input line 30
+6.
+(pdftex.def)             Requested size: 19.78813pt x 18.9278pt.
+
+<./resources/010-sebelum-reshape.png, id=68, 1126.2075pt x 517.935pt>
+File: ./resources/010-sebelum-reshape.png Graphic file (type png)
+
+<use ./resources/010-sebelum-reshape.png>
+Package pdftex.def Info: ./resources/010-sebelum-reshape.png used on input line
+ 312.
+(pdftex.def)             Requested size: 430.00462pt x 197.7578pt.
+ [12 <./resources/006-mode-edited.png> <./resources/007-ikon-drawing.png (PNG c
+opy)> <./resources/008-ikon-select.png> <./resources/009-ikon-reshape.png>]
+<./resources/011-sesudah-reshape.png, id=73, 1120.185pt x 531.70071pt>
+File: ./resources/011-sesudah-reshape.png Graphic file (type png)
+
+<use ./resources/011-sesudah-reshape.png>
+Package pdftex.def Info: ./resources/011-sesudah-reshape.png used on input line
+ 320.
+(pdftex.def)             Requested size: 430.00462pt x 204.10098pt.
+
+<./resources/012-ikon-add-node.png, id=74, 21.50893pt x 18.0675pt>
+File: ./resources/012-ikon-add-node.png Graphic file (type png)
+
+<use ./resources/012-ikon-add-node.png>
+Package pdftex.def Info: ./resources/012-ikon-add-node.png used on input line 3
+24.
+(pdftex.def)             Requested size: 21.50887pt x 18.06744pt.
+
+<./resources/013-layer-untuk-combine.png, id=75, 887.02821pt x 482.66035pt>
+File: ./resources/013-layer-untuk-combine.png Graphic file (type png)
+
+<use ./resources/013-layer-untuk-combine.png>
+Package pdftex.def Info: ./resources/013-layer-untuk-combine.png used on input 
+line 334.
+(pdftex.def)             Requested size: 430.00462pt x 233.97952pt.
+ [13 <./resources/010-sebelum-reshape.png> <./resources/011-sesudah-reshape.png
+> <./resources/012-ikon-add-node.png>]
+File: ./resources/008-ikon-select.png Graphic file (type png)
+ <use ./resources/008-ikon-select.png>
+Package pdftex.def Info: ./resources/008-ikon-select.png used on input line 338
+.
+(pdftex.def)             Requested size: 19.78813pt x 18.9278pt.
+
+<./resources/014-dua-objek-untuk-combine.png, id=79, 880.14536pt x 503.30893pt>
+File: ./resources/014-dua-objek-untuk-combine.png Graphic file (type png)
+<use ./resources/014-dua-objek-untuk-combine.png>
+Package pdftex.def Info: ./resources/014-dua-objek-untuk-combine.png used on in
+put line 342.
+(pdftex.def)             Requested size: 430.00462pt x 245.90163pt.
+ [14 <./resources/013-layer-untuk-combine.png> <./resources/014-dua-objek-untuk
+-combine.png>]
+<./resources/015-window-aggregation-untuk-combine.png, id=83, 314.89072pt x 279
+.61607pt>
+File: ./resources/015-window-aggregation-untuk-combine.png Graphic file (type p
+ng)
+ <use ./resources/015-window-aggregation-untuk-combine.png>
+Package pdftex.def Info: ./resources/015-window-aggregation-untuk-combine.png u
+sed on input line 352.
+(pdftex.def)             Requested size: 430.00462pt x 381.85146pt.
+
+<./resources/016-objek-hasil-combine.png, id=84, 922.30286pt x 526.53857pt>
+File: ./resources/016-objek-hasil-combine.png Graphic file (type png)
+
+<use ./resources/016-objek-hasil-combine.png>
+Package pdftex.def Info: ./resources/016-objek-hasil-combine.png used on input 
+line 362.
+(pdftex.def)             Requested size: 430.00462pt x 245.48868pt.
+ [15 <./resources/015-window-aggregation-untuk-combine.png>]
+<./resources/017-layer-untuk-split.png, id=89, 901.65428pt x 470.61536pt>
+File: ./resources/017-layer-untuk-split.png Graphic file (type png)
+
+<use ./resources/017-layer-untuk-split.png>
+Package pdftex.def Info: ./resources/017-layer-untuk-split.png used on input li
+ne 374.
+(pdftex.def)             Requested size: 430.00462pt x 224.44225pt.
+File: ./resources/008-ikon-select.png Graphic file (type png)
+
+<use ./resources/008-ikon-select.png>
+Package pdftex.def Info: ./resources/008-ikon-select.png used on input line 378
+.
+(pdftex.def)             Requested size: 19.78813pt x 18.9278pt.
+
+<./resources/018-objek-terpilih-untuk-split.png, id=90, 882.72643pt x 481.8pt>
+File: ./resources/018-objek-terpilih-untuk-split.png Graphic file (type png)
+
+<use ./resources/018-objek-terpilih-untuk-split.png>
+Package pdftex.def Info: ./resources/018-objek-terpilih-untuk-split.png used on
+ input line 382.
+(pdftex.def)             Requested size: 430.00462pt x 234.6946pt.
+ [16 <./resources/016-objek-hasil-combine.png> <./resources/017-layer-untuk-spl
+it.png>]
+<./resources/019-objek-terpilih-set-target.png, id=94, 831.96536pt x 465.45322p
+t>
+File: ./resources/019-objek-terpilih-set-target.png Graphic file (type png)
+ <use ./resources/019-objek-terpilih-set-target.png>
+Package pdftex.def Info: ./resources/019-objek-terpilih-set-target.png used on 
+input line 390.
+(pdftex.def)             Requested size: 430.00462pt x 240.574pt.
+
+<./resources/020-poligon-pembantu-split.png, id=95, 889.60928pt x 497.28642pt>
+File: ./resources/020-poligon-pembantu-split.png Graphic file (type png)
+
+<use ./resources/020-poligon-pembantu-split.png>
+Package pdftex.def Info: ./resources/020-poligon-pembantu-split.png used on inp
+ut line 398.
+(pdftex.def)             Requested size: 430.00462pt x 240.3717pt.
+ [17 <./resources/018-objek-terpilih-untuk-split.png> <./resources/019-objek-te
+rpilih-set-target.png>]
+File: ./resources/008-ikon-select.png Graphic file (type png)
+
+<use ./resources/008-ikon-select.png>
+Package pdftex.def Info: ./resources/008-ikon-select.png used on input line 402
+.
+(pdftex.def)             Requested size: 19.78813pt x 18.9278pt.
+
+<./resources/021-poligon-pembantu-terpilih-split.png, id=99, 913.69928pt x 507.
+61072pt>
+File: ./resources/021-poligon-pembantu-terpilih-split.png Graphic file (type pn
+g)
+ <use ./resources/021-poligon-pembantu-terpilih-split.png>
+Package pdftex.def Info: ./resources/021-poligon-pembantu-terpilih-split.png us
+ed on input line 406.
+(pdftex.def)             Requested size: 430.00462pt x 238.88689pt.
+
+<./resources/022-window-aggregation-untuk-split.png, id=100, 316.61143pt x 278.
+7557pt>
+File: ./resources/022-window-aggregation-untuk-split.png Graphic file (type png
+)
+ <use ./resources/022-window-aggregation-untuk-split.png>
+Package pdftex.def Info: ./resources/022-window-aggregation-untuk-split.png use
+d on input line 414.
+(pdftex.def)             Requested size: 430.00462pt x 378.60931pt.
+ [18 <./resources/020-poligon-pembantu-split.png> <./resources/021-poligon-pemb
+antu-terpilih-split.png>]
+File: ./resources/008-ikon-select.png Graphic file (type png)
+ <use ./resources/008-ikon-select.png>
+Package pdftex.def Info: ./resources/008-ikon-select.png used on input line 420
+.
+(pdftex.def)             Requested size: 19.78813pt x 18.9278pt.
+
+<./resources/023-objek-hasil-split.png, id=104, 920.58214pt x 494.70535pt>
+File: ./resources/023-objek-hasil-split.png Graphic file (type png)
+
+<use ./resources/023-objek-hasil-split.png>
+Package pdftex.def Info: ./resources/023-objek-hasil-split.png used on input li
+ne 424.
+(pdftex.def)             Requested size: 430.00462pt x 231.07732pt.
+ [19 <./resources/022-window-aggregation-untuk-split.png>]
+<./resources/024-layer-untuk-erase.png, id=108, 846.59143pt x 464.59285pt>
+File: ./resources/024-layer-untuk-erase.png Graphic file (type png)
+
+<use ./resources/024-layer-untuk-erase.png>
+Package pdftex.def Info: ./resources/024-layer-untuk-erase.png used on input li
+ne 436.
+(pdftex.def)             Requested size: 430.00462pt x 235.98218pt.
+File: ./resources/008-ikon-select.png Graphic file (type png)
+
+<use ./resources/008-ikon-select.png>
+Package pdftex.def Info: ./resources/008-ikon-select.png used on input line 440
+.
+(pdftex.def)             Requested size: 19.78813pt x 18.9278pt.
+
+<./resources/025-objek-terpilih-untuk-erase.png, id=109, 888.74893pt x 464.5928
+5pt>
+File: ./resources/025-objek-terpilih-untuk-erase.png Graphic file (type png)
+ <use ./resources/025-objek-terpilih-untuk-erase.png>
+Package pdftex.def Info: ./resources/025-objek-terpilih-untuk-erase.png used on
+ input line 444.
+(pdftex.def)             Requested size: 430.00462pt x 224.78848pt.
+ [20 <./resources/023-objek-hasil-split.png> <./resources/024-layer-untuk-erase
+.png>]
+<./resources/026-objek-tertarget-untuk-erase.png, id=113, 864.65894pt x 482.660
+35pt>
+File: ./resources/026-objek-tertarget-untuk-erase.png Graphic file (type png)
+ <use ./resources/026-objek-tertarget-untuk-erase.png>
+Package pdftex.def Info: ./resources/026-objek-tertarget-untuk-erase.png used o
+n input line 452.
+(pdftex.def)             Requested size: 430.00462pt x 240.02602pt.
+
+<./resources/027-objek-pembantu-erase.png, id=114, 910.25786pt x 474.0568pt>
+File: ./resources/027-objek-pembantu-erase.png Graphic file (type png)
+
+<use ./resources/027-objek-pembantu-erase.png>
+Package pdftex.def Info: ./resources/027-objek-pembantu-erase.png used on input
+ line 460.
+(pdftex.def)             Requested size: 430.00462pt x 223.94238pt.
+ [21 <./resources/025-objek-terpilih-untuk-erase.png> <./resources/026-objek-te
+rtarget-untuk-erase.png>]
+File: ./resources/008-ikon-select.png Graphic file (type png)
+
+<use ./resources/008-ikon-select.png>
+Package pdftex.def Info: ./resources/008-ikon-select.png used on input line 464
+.
+(pdftex.def)             Requested size: 19.78813pt x 18.9278pt.
+
+<./resources/028-objek-pembantu-erase-terpilih.png, id=119, 955.85678pt x 523.0
+9714pt>
+File: ./resources/028-objek-pembantu-erase-terpilih.png Graphic file (type png)
+
+ <use ./resources/028-objek-pembantu-erase-terpilih.png>
+Package pdftex.def Info: ./resources/028-objek-pembantu-erase-terpilih.png used
+ on input line 468.
+(pdftex.def)             Requested size: 430.00462pt x 235.3197pt.
+
+<./resources/029-window-aggregation-untuk-erase.png, id=120, 314.03035pt x 277.
+89536pt>
+File: ./resources/029-window-aggregation-untuk-erase.png Graphic file (type png
+)
+ <use ./resources/029-window-aggregation-untuk-erase.png>
+Package pdftex.def Info: ./resources/029-window-aggregation-untuk-erase.png use
+d on input line 476.
+(pdftex.def)             Requested size: 430.00462pt x 380.55743pt.
+ [22 <./resources/027-objek-pembantu-erase.png> <./resources/028-objek-pembantu
+-erase-terpilih.png>]
+<./resources/030-objek-telah-terpotong.png, id=124, 935.20822pt x 509.33144pt>
+File: ./resources/030-objek-telah-terpotong.png Graphic file (type png)
+
+<use ./resources/030-objek-telah-terpotong.png>
+Package pdftex.def Info: ./resources/030-objek-telah-terpotong.png used on inpu
+t line 484.
+(pdftex.def)             Requested size: 430.00462pt x 234.1865pt.
+ [23 <./resources/029-window-aggregation-untuk-erase.png>]
+File: ./resources/008-ikon-select.png Graphic file (type png)
+ <use ./resources/008-ikon-select.png>
+Package pdftex.def Info: ./resources/008-ikon-select.png used on input line 488
+.
+(pdftex.def)             Requested size: 19.78813pt x 18.9278pt.
+
+<./resources/031-hasil-akhir-erase.png, id=128, 952.41536pt x 496.42607pt>
+File: ./resources/031-hasil-akhir-erase.png Graphic file (type png)
+
+<use ./resources/031-hasil-akhir-erase.png>
+Package pdftex.def Info: ./resources/031-hasil-akhir-erase.png used on input li
+ne 492.
+(pdftex.def)             Requested size: 430.00462pt x 224.13199pt.
+
+<./resources/032-layer-untuk-erase-2.png, id=129, 835.40678pt x 505.02965pt>
+File: ./resources/032-layer-untuk-erase-2.png Graphic file (type png)
+
+<use ./resources/032-layer-untuk-erase-2.png>
+Package pdftex.def Info: ./resources/032-layer-untuk-erase-2.png used on input 
+line 504.
+(pdftex.def)             Requested size: 430.00462pt x 259.95831pt.
+ [24 <./resources/030-objek-telah-terpotong.png> <./resources/031-hasil-akhir-e
+rase.png>]
+File: ./resources/008-ikon-select.png Graphic file (type png)
+
+<use ./resources/008-ikon-select.png>
+Package pdftex.def Info: ./resources/008-ikon-select.png used on input line 508
+.
+(pdftex.def)             Requested size: 19.78813pt x 18.9278pt.
+
+<./resources/033-objek-terpilih-untuk-erase-2.png, id=133, 731.30357pt x 494.70
+535pt>
+File: ./resources/033-objek-terpilih-untuk-erase-2.png Graphic file (type png)
+ <use ./resources/033-objek-terpilih-untuk-erase-2.png>
+Package pdftex.def Info: ./resources/033-objek-terpilih-untuk-erase-2.png used 
+on input line 512.
+(pdftex.def)             Requested size: 430.00462pt x 290.89232pt.
+ [25 <./resources/032-layer-untuk-erase-2.png>]
+<./resources/034-objek-tertarget-untuk-erase-2.png, id=137, 802.71321pt x 493.8
+45pt>
+File: ./resources/034-objek-tertarget-untuk-erase-2.png Graphic file (type png)
+
+ <use ./resources/034-objek-tertarget-untuk-erase-2.png>
+Package pdftex.def Info: ./resources/034-objek-tertarget-untuk-erase-2.png used
+ on input line 520.
+(pdftex.def)             Requested size: 430.00462pt x 264.55486pt.
+ [26 <./resources/033-objek-terpilih-untuk-erase-2.png>]
+<./resources/035-poligon-bantuan-untuk-erase-2.png, id=141, 893.05072pt x 492.9
+8465pt>
+File: ./resources/035-poligon-bantuan-untuk-erase-2.png Graphic file (type png)
+
+ <use ./resources/035-poligon-bantuan-untuk-erase-2.png>
+Package pdftex.def Info: ./resources/035-poligon-bantuan-untuk-erase-2.png used
+ on input line 528.
+(pdftex.def)             Requested size: 430.00462pt x 237.37465pt.
+File: ./resources/008-ikon-select.png Graphic file (type png)
+
+<use ./resources/008-ikon-select.png>
+Package pdftex.def Info: ./resources/008-ikon-select.png used on input line 532
+.
+(pdftex.def)             Requested size: 19.78813pt x 18.9278pt.
+
+<./resources/036-poligon-bantuan-terpilih-untuk-erase-2.png, id=142, 873.2625pt
+ x 482.66035pt>
+File: ./resources/036-poligon-bantuan-terpilih-untuk-erase-2.png Graphic file (
+type png)
+
+<use ./resources/036-poligon-bantuan-terpilih-untuk-erase-2.png>
+Package pdftex.def Info: ./resources/036-poligon-bantuan-terpilih-untuk-erase-2
+.png used on input line 536.
+(pdftex.def)             Requested size: 430.00462pt x 237.66928pt.
+ [27 <./resources/034-objek-tertarget-untuk-erase-2.png> <./resources/035-polig
+on-bantuan-untuk-erase-2.png>]
+<./resources/037-jendela-aggregate-untuk-erase-2.png, id=147, 304.56642pt x 264
+.99pt>
+File: ./resources/037-jendela-aggregate-untuk-erase-2.png Graphic file (type pn
+g)
+ <use ./resources/037-jendela-aggregate-untuk-erase-2.png>
+Package pdftex.def Info: ./resources/037-jendela-aggregate-untuk-erase-2.png us
+ed on input line 544.
+(pdftex.def)             Requested size: 430.00462pt x 374.12924pt.
+ [28 <./resources/036-poligon-bantuan-terpilih-untuk-erase-2.png>]
+<./resources/038-objek-target-terpotong-erase-2.png, id=151, 885.3075pt x 487.8
+225pt>
+File: ./resources/038-objek-target-terpotong-erase-2.png Graphic file (type png
+)
+ <use ./resources/038-objek-target-terpotong-erase-2.png>
+Package pdftex.def Info: ./resources/038-objek-target-terpotong-erase-2.png use
+d on input line 554.
+(pdftex.def)             Requested size: 430.00462pt x 236.94347pt.
+ [29 <./resources/037-jendela-aggregate-untuk-erase-2.png>]
+File: ./resources/008-ikon-select.png Graphic file (type png)
+
+<use ./resources/008-ikon-select.png>
+Package pdftex.def Info: ./resources/008-ikon-select.png used on input line 558
+.
+(pdftex.def)             Requested size: 19.78813pt x 18.9278pt.
+
+<./resources/039-hasil-erase-2.png, id=155, 898.21286pt x 451.6875pt>
+File: ./resources/039-hasil-erase-2.png Graphic file (type png)
+
+<use ./resources/039-hasil-erase-2.png>
+Package pdftex.def Info: ./resources/039-hasil-erase-2.png used on input line 5
+62.
+(pdftex.def)             Requested size: 430.00462pt x 216.24237pt.
+
+<./resources/040-layer-sambung-vertex.png, id=156, 672.79929pt x 461.15143pt>
+File: ./resources/040-layer-sambung-vertex.png Graphic file (type png)
+
+<use ./resources/040-layer-sambung-vertex.png>
+Package pdftex.def Info: ./resources/040-layer-sambung-vertex.png used on input
+ line 574.
+(pdftex.def)             Requested size: 430.00462pt x 294.7348pt.
+ [30 <./resources/038-objek-target-terpotong-erase-2.png> <./resources/039-hasi
+l-erase-2.png>]
+File: ./resources/008-ikon-select.png Graphic file (type png)
+
+<use ./resources/008-ikon-select.png>
+Package pdftex.def Info: ./resources/008-ikon-select.png used on input line 578
+.
+(pdftex.def)             Requested size: 19.78813pt x 18.9278pt.
+
+<./resources/041-objek-reshape-terpilih.png, id=160, 691.72714pt x 458.57036pt>
+File: ./resources/041-objek-reshape-terpilih.png Graphic file (type png)
+<use ./resources/041-objek-reshape-terpilih.png>
+Package pdftex.def Info: ./resources/041-objek-reshape-terpilih.png used on inp
+ut line 582.
+(pdftex.def)             Requested size: 430.00462pt x 285.06638pt.
+ [31 <./resources/040-layer-sambung-vertex.png>]
+<./resources/042-snap-aktif.png, id=164, 482.66035pt x 46.45929pt>
+File: ./resources/042-snap-aktif.png Graphic file (type png)
+
+<use ./resources/042-snap-aktif.png>
+Package pdftex.def Info: ./resources/042-snap-aktif.png used on input line 590.
+
+(pdftex.def)             Requested size: 430.00462pt x 41.39044pt.
+
+<./resources/043-ikon-reshape.png, id=165, 20.64857pt x 18.92786pt>
+File: ./resources/043-ikon-reshape.png Graphic file (type png)
+
+<use ./resources/043-ikon-reshape.png>
+Package pdftex.def Info: ./resources/043-ikon-reshape.png used on input line 59
+4.
+(pdftex.def)             Requested size: 20.64851pt x 18.9278pt.
+
+<./resources/044-reshape-snap-ke-objek-lain.png, id=166, 649.56964pt x 464.5928
+5pt>
+File: ./resources/044-reshape-snap-ke-objek-lain.png Graphic file (type png)
+ <use ./resources/044-reshape-snap-ke-objek-lain.png>
+Package pdftex.def Info: ./resources/044-reshape-snap-ke-objek-lain.png used on
+ input line 598.
+(pdftex.def)             Requested size: 430.00462pt x 307.5538pt.
+ [32 <./resources/041-objek-reshape-terpilih.png> <./resources/042-snap-aktif.p
+ng> <./resources/043-ikon-reshape.png>]) [33 <./resources/044-reshape-snap-ke-o
+bjek-lain.png>]
+\openout2 = `05.koordinat.aux'.
+
+
+(./05.koordinat.tex
+BAB 3.
+<./resources/045-jendela-map-option.png, id=174, 390.60214pt x 351.88608pt>
+File: ./resources/045-jendela-map-option.png Graphic file (type png)
+
+<use ./resources/045-jendela-map-option.png>
+Package pdftex.def Info: ./resources/045-jendela-map-option.png used on input l
+ine 21.
+(pdftex.def)             Requested size: 430.00462pt x 387.38728pt.
+ [34
+
+
+
+]
+<./resources/046-jendela-projection.png, id=179, 279.61607pt x 212.50821pt>
+File: ./resources/046-jendela-projection.png Graphic file (type png)
+
+<use ./resources/046-jendela-projection.png>
+Package pdftex.def Info: ./resources/046-jendela-projection.png used on input l
+ine 29.
+(pdftex.def)             Requested size: 430.00462pt x 326.82588pt.
+ [35 <./resources/045-jendela-map-option.png>]
+<./resources/047-pemilihan-utm-wgs84.png, id=183, 281.33679pt x 213.36858pt>
+File: ./resources/047-pemilihan-utm-wgs84.png Graphic file (type png)
+
+<use ./resources/047-pemilihan-utm-wgs84.png>
+Package pdftex.def Info: ./resources/047-pemilihan-utm-wgs84.png used on input 
+line 37.
+(pdftex.def)             Requested size: 430.00462pt x 326.14679pt.
+) [36 <./resources/046-jendela-projection.png>] [37 <./resources/047-pemilihan-
+utm-wgs84.png>]
+\openout2 = `06.registrasi-transformasi-koordinat.aux'.
+
+
+(./06.registrasi-transformasi-koordinat.tex
+BAB 4.
+<./resources/048-membuka-file-raster.png, id=190, 488.68286pt x 399.20572pt>
+File: ./resources/048-membuka-file-raster.png Graphic file (type png)
+
+<use ./resources/048-membuka-file-raster.png>
+Package pdftex.def Info: ./resources/048-membuka-file-raster.png used on input 
+line 10.
+(pdftex.def)             Requested size: 430.00462pt x 351.28384pt.
+ [38
+
+
+
+]
+<./resources/049-a-jendela-register.png, id=194, 245.20178pt x 189.27856pt>
+File: ./resources/049-a-jendela-register.png Graphic file (type png)
+
+<use ./resources/049-a-jendela-register.png>
+Package pdftex.def Info: ./resources/049-a-jendela-register.png used on input l
+ine 18.
+(pdftex.def)             Requested size: 430.00462pt x 331.95003pt.
+ [39 <./resources/048-membuka-file-raster.png>]
+<./resources/051-jendela-image-registration.png, id=199, 387.16072pt x 431.0389
+3pt>
+File: ./resources/051-jendela-image-registration.png Graphic file (type png)
+ <use ./resources/051-jendela-image-registration.png>
+Package pdftex.def Info: ./resources/051-jendela-image-registration.png used on
+ input line 26.
+(pdftex.def)             Requested size: 430.00462pt x 478.74168pt.
+ [40 <./resources/049-a-jendela-register.png>]) [41 <./resources/051-jendela-im
+age-registration.png>]
+\openout2 = `07.digitasi-on-screen.aux'.
+
+(./07.digitasi-on-screen.tex
+BAB 5.
+<./resources/052-a-ikon-layer-control.png, id=206, 19.78821pt x 18.92786pt>
+File: ./resources/052-a-ikon-layer-control.png Graphic file (type png)
+
+<use ./resources/052-a-ikon-layer-control.png>
+Package pdftex.def Info: ./resources/052-a-ikon-layer-control.png used on input
+ line 9.
+(pdftex.def)             Requested size: 19.78813pt x 18.9278pt.
+
+<./resources/052-jendela-layer-control.png, id=207, 371.67429pt x 268.43143pt>
+File: ./resources/052-jendela-layer-control.png Graphic file (type png)
+
+<use ./resources/052-jendela-layer-control.png>
+Package pdftex.def Info: ./resources/052-jendela-layer-control.png used on inpu
+t line 13.
+(pdftex.def)             Requested size: 430.00462pt x 310.56967pt.
+ [42
+
+
+
+ <./resources/052-a-ikon-layer-control.png (PNG copy)>]
+<./resources/052-b-kondisi-editable.png, id=211, 470.61536pt x 350.16536pt>
+File: ./resources/052-b-kondisi-editable.png Graphic file (type png)
+
+<use ./resources/052-b-kondisi-editable.png>
+Package pdftex.def Info: ./resources/052-b-kondisi-editable.png used on input l
+ine 21.
+(pdftex.def)             Requested size: 430.00462pt x 319.96002pt.
+ [43 <./resources/052-jendela-layer-control.png (PNG copy)>]
+<./resources/054-ikon-setting-simbol.png, id=215, 20.64857pt x 18.92786pt>
+File: ./resources/054-ikon-setting-simbol.png Graphic file (type png)
+
+<use ./resources/054-ikon-setting-simbol.png>
+Package pdftex.def Info: ./resources/054-ikon-setting-simbol.png used on input 
+line 25.
+(pdftex.def)             Requested size: 20.64851pt x 18.9278pt.
+
+<./resources/055-jendela-setting-simbol.png, id=216, 363.07071pt x 305.42679pt>
+File: ./resources/055-jendela-setting-simbol.png Graphic file (type png)
+<use ./resources/055-jendela-setting-simbol.png>
+Package pdftex.def Info: ./resources/055-jendela-setting-simbol.png used on inp
+ut line 29.
+(pdftex.def)             Requested size: 430.00462pt x 361.73802pt.
+ [44 <./resources/052-b-kondisi-editable.png> <./resources/054-ikon-setting-sim
+bol.png (PNG copy)>]
+<./resources/053-ikon-simbol.png, id=221, 19.78821pt x 18.0675pt>
+File: ./resources/053-ikon-simbol.png Graphic file (type png)
+
+<use ./resources/053-ikon-simbol.png>
+Package pdftex.def Info: ./resources/053-ikon-simbol.png used on input line 35.
+
+(pdftex.def)             Requested size: 19.78813pt x 18.06744pt.
+
+Overfull \hbox (16.94237pt too wide) in paragraph at lines 35--36
+[]\OT1/cmr/m/n/12 Siap un-tuk men-digitasi data titik (misal ob-jek Tower BTS a
+tau ob-jek Pelabuhan)
+ []
+
+<./resources/056-contoh-simbol.png, id=222, 623.75893pt x 318.33214pt>
+File: ./resources/056-contoh-simbol.png Graphic file (type png)
+
+<use ./resources/056-contoh-simbol.png>
+Package pdftex.def Info: ./resources/056-contoh-simbol.png used on input line 3
+9.
+(pdftex.def)             Requested size: 430.00462pt x 219.45024pt.
+ [45 <./resources/055-jendela-setting-simbol.png (PNG copy)> <./resources/053-i
+kon-simbol.png>]
+<./resources/057-a-ikon-setting-garis.png, id=227, 20.64857pt x 18.92786pt>
+File: ./resources/057-a-ikon-setting-garis.png Graphic file (type png)
+
+<use ./resources/057-a-ikon-setting-garis.png>
+Package pdftex.def Info: ./resources/057-a-ikon-setting-garis.png used on input
+ line 51.
+(pdftex.def)             Requested size: 20.64851pt x 18.9278pt.
+
+<./resources/058-jendela-setting-garis.png, id=228, 244.34143pt x 172.9318pt>
+File: ./resources/058-jendela-setting-garis.png Graphic file (type png)
+
+<use ./resources/058-jendela-setting-garis.png>
+Package pdftex.def Info: ./resources/058-jendela-setting-garis.png used on inpu
+t line 55.
+(pdftex.def)             Requested size: 430.00462pt x 304.36877pt.
+ [46 <./resources/056-contoh-simbol.png (PNG copy)> <./resources/057-a-ikon-set
+ting-garis.png (PNG copy)>]
+<./resources/059-ikon-garis.png, id=233, 41.29715pt x 37.85571pt>
+File: ./resources/059-ikon-garis.png Graphic file (type png)
+
+<use ./resources/059-ikon-garis.png>
+Package pdftex.def Info: ./resources/059-ikon-garis.png used on input line 65.
+(pdftex.def)             Requested size: 215.0023pt x 197.08586pt.
+ [47 <./resources/058-jendela-setting-garis.png> <./resources/059-ikon-garis.pn
+g>]
+<./resources/060-contoh-garis.png, id=237, 1175.24786pt x 621.17786pt>
+File: ./resources/060-contoh-garis.png Graphic file (type png)
+
+<use ./resources/060-contoh-garis.png>
+Package pdftex.def Info: ./resources/060-contoh-garis.png used on input line 75
+.
+(pdftex.def)             Requested size: 430.00462pt x 227.28252pt.
+
+<./resources/061-ikon-setting-poligon.png, id=238, 20.64857pt x 18.92786pt>
+File: ./resources/061-ikon-setting-poligon.png Graphic file (type png)
+
+<use ./resources/061-ikon-setting-poligon.png>
+Package pdftex.def Info: ./resources/061-ikon-setting-poligon.png used on input
+ line 87.
+(pdftex.def)             Requested size: 20.64851pt x 18.9278pt.
+
+<./resources/062-jendela-setting-poligon.png, id=239, 237.45857pt x 357.90857pt
+>
+File: ./resources/062-jendela-setting-poligon.png Graphic file (type png)
+ <use ./resources/062-jendela-setting-poligon.png>
+Package pdftex.def Info: ./resources/062-jendela-setting-poligon.png used on in
+put line 91.
+(pdftex.def)             Requested size: 430.00462pt x 648.17793pt.
+ [48 <./resources/060-contoh-garis.png> <./resources/061-ikon-setting-poligon.p
+ng>]
+Overfull \vbox (17.35713pt too high) has occurred while \output is active []
+
+
+[49 <./resources/062-jendela-setting-poligon.png>]
+<./resources/063-ikon-poligon.png, id=246, 40.43678pt x 38.71606pt>
+File: ./resources/063-ikon-poligon.png Graphic file (type png)
+
+<use ./resources/063-ikon-poligon.png>
+Package pdftex.def Info: ./resources/063-ikon-poligon.png used on input line 97
+.
+(pdftex.def)             Requested size: 40.43666pt x 38.71596pt.
+
+<./resources/064-hasil-poligon.png, id=247, 544.60606pt x 359.62929pt>
+File: ./resources/064-hasil-poligon.png Graphic file (type png)
+
+<use ./resources/064-hasil-poligon.png>
+Package pdftex.def Info: ./resources/064-hasil-poligon.png used on input line 1
+03.
+(pdftex.def)             Requested size: 430.00462pt x 283.95586pt.
+) [50 <./resources/063-ikon-poligon.png (PNG copy)> <./resources/064-hasil-poli
+gon.png>]
+\openout2 = `08.query.aux'.
+
+ (./08.query.tex
+BAB 6.
+<./resources/065-jendela-browse-tabel.png, id=251, 274.45393pt x 171.21107pt>
+File: ./resources/065-jendela-browse-tabel.png Graphic file (type png)
+
+<use ./resources/065-jendela-browse-tabel.png>
+Package pdftex.def Info: ./resources/065-jendela-browse-tabel.png used on input
+ line 12.
+(pdftex.def)             Requested size: 430.00462pt x 268.26118pt.
+
+<./resources/066-isi-tabel-bidang.png, id=252, 567.83571pt x 554.93036pt>
+File: ./resources/066-isi-tabel-bidang.png Graphic file (type png)
+
+<use ./resources/066-isi-tabel-bidang.png>
+Package pdftex.def Info: ./resources/066-isi-tabel-bidang.png used on input lin
+e 20.
+(pdftex.def)             Requested size: 430.00462pt x 420.24423pt.
+ [51
+
+
+
+ <./resources/065-jendela-browse-tabel.png>]
+<./resources/067-jendela-update-column.png, id=257, 363.93108pt x 237.45857pt>
+File: ./resources/067-jendela-update-column.png Graphic file (type png)
+
+<use ./resources/067-jendela-update-column.png>
+Package pdftex.def Info: ./resources/067-jendela-update-column.png used on inpu
+t line 32.
+(pdftex.def)             Requested size: 430.00462pt x 280.58636pt.
+ [52 <./resources/066-isi-tabel-bidang.png>]
+<./resources/068-jendela-expression-untuk-d_luas.png, id=261, 281.33679pt x 160
+.02643pt>
+File: ./resources/068-jendela-expression-untuk-d_luas.png Graphic file (type pn
+g)
+ <use ./resources/068-jendela-expression-untuk-d_luas.png>
+Package pdftex.def Info: ./resources/068-jendela-expression-untuk-d_luas.png us
+ed on input line 40.
+(pdftex.def)             Requested size: 430.00462pt x 244.61009pt.
+ [53 <./resources/067-jendela-update-column.png> <./resources/068-jendela-expre
+ssion-untuk-d_luas.png>]
+<./resources/069-hasil-update-column.png, id=265, 387.16072pt x 552.34929pt>
+File: ./resources/069-hasil-update-column.png Graphic file (type png)
+
+<use ./resources/069-hasil-update-column.png>
+Package pdftex.def Info: ./resources/069-hasil-update-column.png used on input 
+line 48.
+(pdftex.def)             Requested size: 430.00462pt x 613.47737pt.
+ [54] [55 <./resources/069-hasil-update-column.png>]
+<./resources/070-jendela-select.png, id=272, 359.62929pt x 209.92714pt>
+File: ./resources/070-jendela-select.png Graphic file (type png)
+
+<use ./resources/070-jendela-select.png>
+Package pdftex.def Info: ./resources/070-jendela-select.png used on input line 
+60.
+(pdftex.def)             Requested size: 430.00462pt x 251.00797pt.
+
+<./resources/071-jendela-expression.png, id=273, 289.94035pt x 172.9318pt>
+File: ./resources/071-jendela-expression.png Graphic file (type png)
+
+<use ./resources/071-jendela-expression.png>
+Package pdftex.def Info: ./resources/071-jendela-expression.png used on input l
+ine 68.
+(pdftex.def)             Requested size: 430.00462pt x 256.47331pt.
+ [56 <./resources/070-jendela-select.png>] <./resources/072-hasil-select.png, i
+d=277, 399.20572pt x 545.46643pt>
+File: ./resources/072-hasil-select.png Graphic file (type png)
+
+<use ./resources/072-hasil-select.png>
+Package pdftex.def Info: ./resources/072-hasil-select.png used on input line 84
+.
+(pdftex.def)             Requested size: 430.00462pt x 587.57182pt.
+ [57 <./resources/071-jendela-expression.png>] [58 <./resources/072-hasil-selec
+t.png>]
+<./resources/073-hasil-pencarian-blok.png, id=285, 1145.99571pt x 623.75893pt>
+File: ./resources/073-hasil-pencarian-blok.png Graphic file (type png)
+
+<use ./resources/073-hasil-pencarian-blok.png>
+Package pdftex.def Info: ./resources/073-hasil-pencarian-blok.png used on input
+ line 92.
+(pdftex.def)             Requested size: 430.00462pt x 234.05179pt.
+) [59 <./resources/073-hasil-pencarian-blok.png>]
+No file 00.book.ind.
+(./00.book.aux (./02.pengesahan.aux) (./03.konsep-sig.aux)
+(./04.pengenalan-software.aux) (./05.koordinat.aux)
+(./06.registrasi-transformasi-koordinat.aux) (./07.digitasi-on-screen.aux)
+(./08.query.aux))
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4386 strings out of 493304
+ 73059 string characters out of 6139870
+ 134233 words of memory out of 5000000
+ 7669 multiletter control sequences out of 15000+600000
+ 8286 words of font info for 29 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 38i,9n,32p,675b,941s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on 00.book.pdf (63 pages, 1000331 bytes).
+PDF statistics:
+ 315 PDF objects out of 1000 (max. 8388607)
+ 163 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 381 words of extra memory for PDF output out of 10000 (max. 10000000)
+

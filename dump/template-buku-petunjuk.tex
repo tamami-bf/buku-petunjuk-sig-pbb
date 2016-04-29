@@ -1,0 +1,216 @@
+\documentclass[a4,11pt]
+\usepackage[english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{tgpagella}
+\usepackage{microtype}
+\usepackage{booktabs}
+
+\usepackage{upquote}
+
+\usepackage[utf8]{inputenc}
+\usepackage{eurosym}
+
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+%\usepackage{enumerate}
+
+$if(geometry)$
+  \usepackage[$for(geometry)$$geometry$$sep$,$endfor$]{geometry}
+$endif$
+
+$if(listings)$
+  \usepackage{listings}
+$endif$
+
+$if(highlighting-macros)$
+  $highlighting-macros$
+$endif$
+
+$if(verbatim-in-note)$
+  \usepackage{fancyvrb}
+$endif$
+
+$if(tables)$
+  \usepackage{longtable}
+$endif$
+
+\usepackage{graphicx}
+\usepackage{float}
+\restylefloat{figure}
+
+\usepackage[unicode=true]{hyperref}
+\hypersetup{breaklinks=true,
+  bookmarks=true,
+  pdfauthor={$author-meta$},
+  pdftitle={$title-meta$},
+  colorlinks=true,
+  urlcolor=$if(urlcolor)$$urlcolor$$else$blue$endif$
+  linkcolor=$if(linkcolor)$$linkcolor$$else$magenta$endif$,
+  pdfborder={0 0 0}}
+\urlstyle{same}
+
+$if(links-as-notes)$
+  \renewcommand{\href}[2]{#2\footnote{\url{#1}}}
+$endif$
+
+$if(strikeout)$
+  \usepackage[normalem]{ulem}
+  \pdfstringdefDisableCommands{\renewcommand{\sout}{}}
+$endif$
+
+$if(numbersections)$
+  \setcounter{secnumdepth}{0}
+$endif$
+
+$if(verbatim-in-note)$
+  \VerbatimFootnotes
+$endif$
+
+%\usepackage{enumerate}
+
+$if(title)$
+  \title{$title$}
+$endif$
+\author{$for(author)$$author$$sep$ \and $endfor$}
+\date{$date$}
+
+% HEADER AND FOOTER
+%\usepackage{fancyhdr}
+\pagestyle{fancy}
+\pagenumbering{arabic}
+\lhead{\itshape $title$}
+\chead{}
+\rhead{\itshape{\nouppercase{\leftmark}}}
+$if(version)$
+\lfoot{v$version$}
+$endif$
+\cfoot{}
+\rfoot{\thepage}
+
+% JUDUL BAB
+% ----| PERLU DIPERIKSA UNTUK DISESUAIKAN |----
+%\usepackage{titlesec}
+\titleformat{\chapter}[hang]
+  {\Large\bfseries}
+  {\MakeUppercase{\chaptertitlename}\hspace{5pt}\thechapter\hspace{10pt}{\Huge{\textbar}}\hspace{5pt}}
+  {0pt}
+  {\Huge\bfseries}[\vspace{1ex}\titlerule]
+
+$if(title)$
+  \title{$title$}
+$endif$
+
+\author{$for(author)$$author$$sep$ \and $endfor$}
+\date{$date$}
+
+$for(header-includes)$
+  $header-includes$
+$endfor$
+
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+
+\begin{document}
+
+\begin{titlepage}
+
+  \pagenumbering{gobble}
+
+  \begin{center}
+
+    % Logo
+    %\includegraphics[width=4in]{./logo}\\[3cm]
+
+    %\textsc{\LARGE BUKU PETUNJUK}\\[0.5cm]
+
+    % TITLE
+    %\HRule \\[0.4cm]
+
+    { \huge \bfseries $title$}\leavevmode\\[0.4cm]
+
+    %\HRule \\[0.5cm]
+
+    % SUBTITLE
+    \textsf{\LARGE PERIODE PENILAIAN TAHUN 2016}\\[1cm]
+
+    % LOGO
+    \includegraphics[width=3in]{./resources/logo}\\[1cm]
+
+    % sebelah kanan tampilkan informasi
+    %\begin{minipage}{0.8\textwidth}
+    %  \begin{flushright} \large
+    %    $if(author)$
+    %	  \emph{$author$} \\
+    %	$endif$
+
+    %	\emph{$date$} \\
+
+    %	$if(version)$
+    %	  {versi:} \textsc{$version$}
+    %	$endif$
+    %  \end{flushright}
+    %\end{minipage}
+    
+    % AUTHOR
+    \textsf{Oleh :}\\
+    \textsf{$author$}\\
+    \textsf{NIP 19840409 201001 1 025}\\
+    \textsf{Dinas Pendapatan dan Pengelolaan Keuangan}\\
+    \textsf{Pemerintah Kabupaten Brebes}
+
+    \vfill
+
+    % Bottom of the page
+    %\includegraphics{./cc-by-sa} \\
+    %{\large \copyright ~ \the\year ~ ArtiVisi Intermedia}
+    \textsf{Tim Penilai}\\
+    \textsf{Jabatan Fungsional Pranata Komputer}\\
+    \textsf{Badan Pusat Statistik}\\
+    \textsf{Brebes, $date$}
+  \end{center}
+\end{titlepage}
+
+% LEMBAR PENGESAHAN
+% ----| PERLU DIPERIKSA UNTUK DISESUAIKAN |----
+\newpage
+\begin{center}
+  {\huge \bfseries Lembar Pengesahan}\\[0.4cm]
+
+  \begin{tabular}{l c l}
+    Nama Kegiatan & : & Membuat Petunjuk Operasional Sistem Komputer \\
+    Judul & : & $title$
+  \end{tabular}\\[2cm]
+
+  \begin{tabular}{c c}
+    Disetujui oleh : & Disusun Oleh \\
+    Kepala Seksi Pendataan, Penetapan, dan Keberatan & Pranata Komputer \\
+    Pada tanggal 15 Desember 2015 & Selesai tanggal : $date$ \\
+    & \\
+    & \\
+    & \\
+    Fetiana Dwiningrum, SIP, M.Si. & Priyanto Tamami, S.Kom \\
+    NIP 19880223 200701 2 001 & NIP 19840409 201001 1 025 
+  \end{tabular}
+\end{center}
+
+%contents
+$for(include-before)$
+  $include-before$
+$endfor$
+
+$if(toc)$
+{
+  \hypersetup{linkcolor=black}
+  \tableofcontents
+}
+$endif$
+
+\newpage
+\pagenumbering{arabic}
+
+$body$
+
+$for(include-after)$
+  $include-after$
+$endfor$
+
+\end{document}

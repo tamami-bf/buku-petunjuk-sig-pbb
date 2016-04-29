@@ -1,0 +1,7 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}KONSEP SISTEM INFORMASI GEOGRAFIS (SIG)}{1}
+\contentsline {chapter}{\numberline {2}PENGENALAN SOFTWARE}{5}
+\contentsline {chapter}{\numberline {3}KOORDINAT}{34}
+\contentsline {chapter}{\numberline {4}REGISTRASI DAN TRANSFORMASI KOORDINAT}{38}
+\contentsline {chapter}{\numberline {5}MEMBANGUN TOPOLOGI (Digitasi On-Screen)}{42}
+\contentsline {chapter}{\numberline {6}QUERY}{51}
